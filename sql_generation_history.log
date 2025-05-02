@@ -328,3 +328,93 @@
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
                                                                                                                         
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2025-05-01 19:46:20,484 - INFO - START sql_generation =============================================
+2025-05-01 19:46:20,484 - INFO - START sql_generation Start Time = 2025-05-01 19:46:20
+2025-05-01 19:46:20,484 - INFO - sql_generation Step 0 - Initialize the configuration file parser
+2025-05-01 19:46:20,484 - INFO - Process started sql_generation on Date:05-01-2025 at Time:07:46:20 PM 
+2025-05-01 19:48:41,394 - INFO - Storyboard Created : sql_generation 
+2025-05-01 19:48:41,404 - INFO - PERFORMANCE sql_generation The total process duration was:140.92
+2025-05-01 19:48:41,404 - INFO - PERFORMANCE sql_generation Stop Time = 2025-05-01 19:48:41
+2025-05-01 19:48:41,408 - INFO - PERFORMANCE sql_generation Medium process duration greater than 3 minutes:140.92
+2025-05-01 19:48:41,408 - INFO - PERFORMANCE sql_generation Performance optimization is optional
+2025-05-01 19:48:41,408 - INFO - END sql_generation =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2025-05-01 19:50:13,409 - INFO - START sql_generation =============================================
+2025-05-01 19:50:13,409 - INFO - START sql_generation Start Time = 2025-05-01 19:50:13
+2025-05-01 19:50:13,409 - INFO - sql_generation Step 0 - Initialize the configuration file parser
+2025-05-01 19:50:13,410 - INFO - Process started sql_generation on Date:05-01-2025 at Time:07:50:13 PM 
+2025-05-01 19:52:35,568 - INFO - Storyboard Created : sql_generation 
+2025-05-01 19:52:35,581 - INFO - PERFORMANCE sql_generation The total process duration was:142.17
+2025-05-01 19:52:35,581 - INFO - PERFORMANCE sql_generation Stop Time = 2025-05-01 19:52:35
+2025-05-01 19:52:35,581 - INFO - PERFORMANCE sql_generation Medium process duration greater than 3 minutes:142.17
+2025-05-01 19:52:35,581 - INFO - PERFORMANCE sql_generation Performance optimization is optional
+2025-05-01 19:52:35,581 - INFO - END sql_generation =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2025-05-01 20:08:15,549 - INFO - START sql_generation =============================================
+2025-05-01 20:08:15,549 - INFO - START sql_generation Start Time = 2025-05-01 20:08:15
+2025-05-01 20:08:15,549 - INFO - sql_generation Step 0 - Initialize the configuration file parser
+2025-05-01 20:08:15,552 - INFO - Process started sql_generation on Date:05-01-2025 at Time:08:08:15 PM 
+2025-05-01 20:10:37,243 - INFO - Storyboard Created : sql_generation 
+2025-05-01 20:10:37,252 - INFO - PERFORMANCE sql_generation The total process duration was:141.70
+2025-05-01 20:10:37,254 - INFO - PERFORMANCE sql_generation Stop Time = 2025-05-01 20:10:37
+2025-05-01 20:10:37,254 - INFO - PERFORMANCE sql_generation Medium process duration greater than 3 minutes:141.70
+2025-05-01 20:10:37,254 - INFO - PERFORMANCE sql_generation Performance optimization is optional
+2025-05-01 20:10:37,254 - INFO - END sql_generation =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2025-05-01 20:19:16,271 - INFO - START sql_generation =============================================
+2025-05-01 20:19:16,271 - INFO - START sql_generation Start Time = 2025-05-01 20:19:16
+2025-05-01 20:19:16,271 - INFO - sql_generation Step 0 - Initialize the configuration file parser
+2025-05-01 20:19:16,272 - INFO - Process started sql_generation on Date:05-01-2025 at Time:08:19:16 PM 
+2025-05-01 20:21:39,811 - INFO - Storyboard Created : sql_generation 
+2025-05-01 20:21:39,820 - INFO - PERFORMANCE sql_generation The total process duration was:143.55
+2025-05-01 20:21:39,821 - INFO - PERFORMANCE sql_generation Stop Time = 2025-05-01 20:21:39
+2025-05-01 20:21:39,822 - INFO - PERFORMANCE sql_generation Medium process duration greater than 3 minutes:143.55
+2025-05-01 20:21:39,822 - INFO - PERFORMANCE sql_generation Performance optimization is optional
+2025-05-01 20:21:39,822 - INFO - END sql_generation =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2025-05-01 20:22:37,615 - INFO - START sql_generation =============================================
+2025-05-01 20:22:37,615 - INFO - START sql_generation Start Time = 2025-05-01 20:22:37
+2025-05-01 20:22:37,615 - INFO - sql_generation Step 0 - Initialize the configuration file parser
+2025-05-01 20:22:37,616 - INFO - Process started sql_generation on Date:05-01-2025 at Time:08:22:37 PM 
+2025-05-01 20:25:01,653 - INFO - Storyboard Created : sql_generation 
+2025-05-01 20:25:01,667 - INFO - PERFORMANCE sql_generation The total process duration was:144.05
+2025-05-01 20:25:01,667 - INFO - PERFORMANCE sql_generation Stop Time = 2025-05-01 20:25:01
+2025-05-01 20:25:01,667 - INFO - PERFORMANCE sql_generation Medium process duration greater than 3 minutes:144.05
+2025-05-01 20:25:01,667 - INFO - PERFORMANCE sql_generation Performance optimization is optional
+2025-05-01 20:25:01,667 - INFO - END sql_generation =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2025-05-01 20:37:58,763 - INFO - START sql_generation =============================================
+2025-05-01 20:37:58,763 - INFO - START sql_generation Start Time = 2025-05-01 20:37:58
+2025-05-01 20:37:58,763 - INFO - sql_generation Step 0 - Initialize the configuration file parser
+2025-05-01 20:37:58,763 - INFO - Process started sql_generation on Date:05-01-2025 at Time:08:37:58 PM 
+2025-05-01 20:40:20,990 - INFO - Storyboard Created : sql_generation 
+2025-05-01 20:40:21,002 - INFO - PERFORMANCE sql_generation The total process duration was:142.24
+2025-05-01 20:40:21,002 - INFO - PERFORMANCE sql_generation Stop Time = 2025-05-01 20:40:20
+2025-05-01 20:40:21,002 - INFO - PERFORMANCE sql_generation Medium process duration greater than 3 minutes:142.24
+2025-05-01 20:40:21,002 - INFO - PERFORMANCE sql_generation Performance optimization is optional
+2025-05-01 20:40:21,002 - INFO - END sql_generation =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        

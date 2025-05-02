@@ -99,6 +99,9 @@ DOMAIN_KEYWORDS = {
     }
 }
 
+
+
+
 TOPIC_KEYWORDS = {
     "disease": {"cancer", "diabetes", "diabetic", "myocardial", "asthma", "cholesterol", "blood pressure", "illness", "pnuemonia"},
     "chronic disease": {"diabetes", "obesity", "arthritis", "osteoporosis", "chronic pain"},
