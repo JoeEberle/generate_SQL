@@ -329,10 +329,10 @@ def classify_text(text, keywords_dict, use_fuzzy=False, use_stemming=False):
 
     return best_match, score, confidence, evidence
 
-def domain_classifier(text, use_fuzzy=False, use_stemming=False):
+def domain_classifier(text, use_fuzzy=False, use_stemming=True):
     return classify_text(text, DOMAIN_KEYWORDS, use_fuzzy, use_stemming )
 
-def topic_classifier(text, use_fuzzy=False, use_stemming=False):
+def topic_classifier(text, use_fuzzy=False, use_stemming=True):
     return classify_text(text, TOPIC_KEYWORDS, use_fuzzy, use_stemming )
 
 def hostility_classifier(text, use_fuzzy=False, use_stemming=False):
