@@ -4,11 +4,7 @@
 
 ## Generates SQL templates for Datasets
 
-    
-![Solution](code.png)
-
-    
-
+    ![Image image_filename](code.png)
 ## Generate SQL
 
 🔹 Generate SQL will generate various forms of SQL based upon the datas descriptive statistics:
@@ -19,7 +15,7 @@
 
 
 
-Welcome to the solution **Generate Sql** - an example for your projects
+Welcome to the solution **Generate Sql** 
 
 Generates SQL templates for Datasets
 
@@ -44,13 +40,7 @@ Generates SQL templates for Datasets
 
 
 <br>
-
-![Solution](code.png)
-
-    
-![Solution](code.png)
-
-    
+![Image image_filename](code.png)![Image image_filename](sample.png)
 ## Getting Started
 
 The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
